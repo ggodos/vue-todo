@@ -1,6 +1,11 @@
 # vue-todo
 
-This template should help get you started developing with Vue 3 in Vite.
+Для работы нужен запуск json-server'а
+
+```sh
+npm install -g json-server
+json-server --watch ./json-server/db.json
+```
 
 ## Recommended IDE Setup
 
