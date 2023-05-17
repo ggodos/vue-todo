@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "text": "Learn Vue",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "Learn React",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "Learn Angular",
+      "done": false
+    }
+  ]
+}
