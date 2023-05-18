@@ -48,7 +48,6 @@ async function fetcthAll() {
 
 function onItemCreated(item: TodoItem) {
   const date = item.date
-  console.log(date, item)
   if (!todos.value[date]) {
     todos.value[date] = [item]
   } else {
